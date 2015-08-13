@@ -1,0 +1,29 @@
+{
+  "name": "GDrivePicker",
+  "version": "1.0.0",
+  "description": "Google Drice Picker - Client Side",
+  "main": "GoogleAPILoader.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "httpdispatcher": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NicolaMagnabosco/GoogleDrive_Picker.git"
+  },
+  "keywords": [
+    "google_drive",
+    "picker",
+    "nodejs"
+  ],
+  "author": "Nick Magnabosco",
+  "license": "GLP V2",
+  "bugs": {
+    "url": "https://github.com/NicolaMagnabosco/GoogleDrive_Picker/issues"
+  },
+  "homepage": "https://github.com/NicolaMagnabosco/GoogleDrive_Picker"
+}
