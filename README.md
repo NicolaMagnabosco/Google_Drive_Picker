@@ -1,4 +1,4 @@
-# ImageDrive
+# Google Drice Picker - Client side authentication (Javascript)
 A simple Google Drive Picker application with authentication on client side (Javascript).
 
 ## Requirements:
