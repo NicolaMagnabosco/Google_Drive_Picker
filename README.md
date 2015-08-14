@@ -20,7 +20,7 @@ Before running the application you need to create a new Drive application. Brows
   3. Fill the form with a product name
   4. Insert "http://localhost:YOUR_PORT_NO/" in the "Authorized JS Engine" (change it with the correct port)
   5. Insert "http://localhost/authorize" in the "Authorized redirect URIs"
-  6. Click on "Create client id ''aadfa''//fghjf//
+  6. Click on "Create client id 
 
 ### 1.3 - Enabling the required APIs:
   1. Select APIs & auth > APIs
