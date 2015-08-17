@@ -10,9 +10,9 @@
     2. Modify the developer_key with your developer key (see link point 1) 
 */
 var oauthtoken;
-var client_id = '638235571242-m20229k40rpse0a8p54b6v3pd6rvun30.apps.googleusercontent.com';
+var client_id = 'REPLACE_WITH_YOUR_CLIENT_ID.apps.googleusercontent.com';
 var scope = ['https://www.googleapis.com/auth/drive'];
-var developer_key = 'AIzaSyC-Ccq39d7Gj8P9Ic7ps0qHZxEvNIc20yA';
+var developer_key = 'REPLACE_WITH_YOUR_DEVELOPER_KEY';
 
 function onApiLoad() {
     gapi.load('auth', {'callback':onAuthApiLoad});
